@@ -8,6 +8,11 @@ This Project aims to manipulate the DOM. It shows two main functionalities:
 -It adds menu items to Navigation bar dynamically.
 -Shows "Active" state of the section.
 
+## Technologies
+-HTML
+-CSS
+-Javascript
+
 ### Architecture
 
 -index.html
