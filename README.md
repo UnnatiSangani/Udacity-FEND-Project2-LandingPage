@@ -9,9 +9,9 @@ This Project aims to manipulate the DOM. It shows two main functionalities:
 -Shows "Active" state of the section.
 
 ## Technologies
--HTML
--CSS
--Javascript
+HTML
+CSS
+Javascript
 
 ### Architecture
 
